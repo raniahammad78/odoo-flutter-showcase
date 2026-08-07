@@ -17,7 +17,7 @@ All source code below is kept in **private repositories**. This page documents w
 
 ## Mobile App
 
-A companion **Flutter/Dart mobile app** built on top of one of these modules — details available on request.
+A companion **Flutter/Dart mobile app** built for Lifting_(OCA_Lifting) module — details available on request.
 
 ## Tech Stack
 
@@ -25,4 +25,4 @@ Odoo 18 · Python · XML/QWeb · OWL (JS) · PostgreSQL · Flutter · Dart · St
 
 ## Contact
 
-Open to freelance/contract work. Get in touch via [your email / LinkedIn link here].
+Open to freelance/contract work. Get in touch via [raniahammadh@gmail.com /www.linkedin.com/in/rania-hammadh].
