@@ -1,4 +1,4 @@
-# Lifting (OCA-Lifting) — Odoo 18
+# Lifting — Odoo 18
 
 > A full lifting-equipment inspection & certification suite: machine registry, inspection scheduling, checklists, certificates, and a customer-facing portal — built to OCA-style module standards.
 
