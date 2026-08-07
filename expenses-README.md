@@ -1,4 +1,4 @@
-# LST-Expenses — Odoo 18
+# Expenses — Odoo 18
 
 > A lightweight internal expense tracker: log income/outgoing transactions per user and per project, with automatic multi-currency balance calculation and a dashboard view.
 
