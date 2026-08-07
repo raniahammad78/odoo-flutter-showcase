@@ -28,7 +28,25 @@ This is the most complete module in the set: it manages the entire lifecycle of 
 
 ## Screenshots
 
-*Available on request — includes all three dashboards, portal views, and a sample certificate.*
+<H2>Main Dashboard</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/80f1ce20-6f90-4153-9f51-d0b27b2a51ad" />
+
+<H2>Customers Dashboard</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/6629bb44-2c78-4226-adfa-6fe81a7aaf6f" />
+
+<H2>Customer Form</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/f5fe4e30-d347-493a-b0ea-22af95c6af9c" />
+
+<H2>Categories</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/e70490ef-c79c-41af-8727-6b541fe1717a" />
+
+<H2>Machines</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/64dbf2a5-2a86-4cc1-8493-0e3e6b1b899c" />
+
+<H2>Customer portal Main Dashboard</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/c2ccf7b9-ed20-480f-a5fc-d844b7403ade" />
+
+
 
 ## Use Case Example
 
