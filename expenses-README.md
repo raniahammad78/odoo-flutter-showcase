@@ -23,8 +23,12 @@ A focused, internal-use module for tracking day-to-day company expenses and inco
 - Depends on: `base`, `mail`, `board`
 
 ## Screenshots
+<img width="1805" height="960" alt="Screenshot from 2026-08-03 21-50-18" src="https://github.com/user-attachments/assets/1bde4c88-b0d1-4a54-95be-ffbe7f46d08a" />
+<img width="1805" height="960" alt="Screenshot from 2026-08-03 21-49-50" src="https://github.com/user-attachments/assets/da54f110-fb21-43a8-ba12-5cc62e7a9915" />
+<img width="1805" height="960" alt="Screenshot from 2026-08-03 21-50-58" src="https://github.com/user-attachments/assets/c4644daa-d848-4569-8150-8c9000762f8c" />
+<img width="1805" height="960" alt="Screenshot from 2026-08-03 21-51-10" src="https://github.com/user-attachments/assets/b7280ffa-206a-46ad-99c0-78264cc0893a" />
+<img width="1805" height="960" alt="Screenshot from 2026-08-03 21-51-25" src="https://github.com/user-attachments/assets/7f08343e-c873-477f-a621-61df46ae2ee7" />
 
-*Available on request.*
 
 ## Use Case Example
 
