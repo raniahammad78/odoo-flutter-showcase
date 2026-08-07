@@ -10,7 +10,7 @@ All source code below is kept in **private repositories**. This page documents w
 |---|---|---|
 | [Remainder Module](./remainder-README.md) | Sales | Product/license renewal tracking with automated email reminders. |
 | [Pipeline Inspector](./pipeline_inspector-README.md) | Industries | Pipeline inspection logging with a live dashboard and PDF reports. |
-| [Lifting (Lifting)](./Lifting-README.md) | Services | Full lifting-equipment inspection & certification suite with customer portal. |
+| [Lifting](./Lifting-README.md) | Services | Full lifting-equipment inspection & certification suite with customer portal. |
 | [Company Visit Tracker](./company_visit_tracker-README.md) | Services / Project | Automated client visit scheduling with a Documents-app-style folder browser. |
 | [Expenses](./expenses-README.md) | Accounting | Lightweight per-user, multi-currency expense tracker with dashboard. |
 | [Thickness Grouping Tool](./grouping-tool-README.md) | Data Tools | Streamlit app to clean, group, and export Excel data by thickness. |
