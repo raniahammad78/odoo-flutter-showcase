@@ -27,6 +27,21 @@ Built for service companies that visit contracted clients on a recurring basis (
 - Depends on: `base`, `mail`, `portal`, `web`, `sign`, `account`
 
 ## Screenshots
+<H2> Dashboard </H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/6ff76f91-d44b-4841-a065-337ea259de8b" />
+
+<H2>Contract</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/c5aa9d2d-f474-4a97-b00d-35dfe6044f14" />
+
+<H2> All visits</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/9ff3c957-7d18-43e9-8c72-57c3e86aeead" />
+
+<H2> Not contracted company</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/b680a6ca-d1dd-4f3c-977e-5bfc8802c68d" />
+<H2>Document folders</H2>
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/3e59bbc2-8956-454f-b7ec-a747d058ceef" />
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/a577e1cd-7f10-44b1-bf02-43ed06d51136" />
+
 
 
 ## Use Case Example
