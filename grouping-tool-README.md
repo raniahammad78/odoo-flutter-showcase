@@ -33,7 +33,7 @@ Built to replace a manual Excel sorting/grouping workflow (common in manufacturi
 
 A materials or inventory team has a raw Excel export listing hundreds of items with a "thickness" column in inconsistent formats (extra spaces, mixed text/numbers). They upload it, select the thickness column, and instantly get a clean, grouped, subtotal-ed report they can hand off or archive — no manual Excel sorting required.
 
-##Live demo
+## Live demo
 
 https://grouping-tool-c7z4mwwnfgm9p4h6rkpao3.streamlit.app/
 ---
