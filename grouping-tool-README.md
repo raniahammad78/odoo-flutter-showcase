@@ -27,7 +27,7 @@ Built to replace a manual Excel sorting/grouping workflow (common in manufacturi
 
 ## Screenshots
 
-*Available on request — includes the dashboard view and a sample exported report.*
+<img width="1805" height="891" alt="image" src="https://github.com/user-attachments/assets/3f1b7412-1c22-40e6-9aaf-8a26ce1d5829" />
 
 ## Use Case Example
 
