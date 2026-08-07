@@ -27,8 +27,54 @@ Built for service companies that visit contracted clients on a recurring basis (
 - Depends on: `base`, `mail`, `portal`, `web`, `sign`, `account`
 
 ## Screenshots
+<h2>Dashboard</h2>
 
-*Available on request — includes the Kanban folder browser and a sample auto-generated visit report.*
+<p align="center">
+  <img src="images/dashboard.png" width="900">
+</p>
+
+<h2>Contract Management</h2>
+
+<p align="center">
+  <img src="images/contract.png" width="900">
+</p>
+
+<h2>Document Folder</h2>
+
+<p align="center">
+  <img src="images/document-folder.png" width="900">
+</p>
+
+<h2>Contracted Company Folder</h2>
+
+<p align="center">
+  <img src="images/contracted-company-folder.png" width="900">
+</p>
+
+<h2>Non-Contracted Company</h2>
+
+<p align="center">
+  <img src="images/not-contracted-company.png" width="900">
+</p>
+
+<h2>Sign Request</h2>
+
+<p align="center">
+  <img src="images/sign-request.png" width="900">
+</p>
+
+<h2>Customer Portal</h2>
+
+<p align="center">
+  <img src="images/customer-portal.png" width="900">
+</p>
+
+
+<h2>Extra visit request from customer portal</h2>
+
+<p align="center">
+  <img src="images/extra-visit-request-customer-portal.png" width="900">
+</p>
 
 ## Use Case Example
 
