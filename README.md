@@ -17,7 +17,7 @@ All source code below is kept in **private repositories**. This page documents w
 
 ## Mobile App
 
-A companion **Flutter/Dart mobile app** built for Lifting_(OCA_Lifting) module — details available on request.
+A companion **Flutter/Dart mobile app** built for Lifting module — details available on request.
 
 ## Tech Stack
 
