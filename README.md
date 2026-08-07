@@ -6,7 +6,7 @@ All source code below is kept in **private repositories**. This page documents w
 
 | Module | Category | Summary |
 |---|---|---|
-| [Remainder Module.md](./remainder-README.md) | Sales | Product/license renewal tracking with automated email reminders. |
+| [Remainder Module](./remainder-README.md) | Sales | Product/license renewal tracking with automated email reminders. |
 | [Pipeline Inspector](./pipeline_inspector-README.md) | Industries | Pipeline inspection logging with a live dashboard and PDF reports. |
 | [Lifting (OCA-Lifting)](./OCA-Lifting-README.md) | Services | Full lifting-equipment inspection & certification suite with customer portal. |
 | [Company Visit Tracker](./company_visit_tracker-README.md) | Services / Project | Automated client visit scheduling with a Documents-app-style folder browser. |
