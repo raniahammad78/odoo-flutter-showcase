@@ -24,9 +24,19 @@ Offline-first mobile app for field inspectors, built on top of the Lifting modul
 
 📄 [Lifting_Inspector](./Lifting_inspector-README.md)
 
+## Other Projects
+ 
+| Project | Category | Summary |
+|---|---|---|
+| [Smart Car Parking System](./Smart-car-parking-system-README.md) | Embedded / IoT | Arduino-based automated parking system with IR sensors, servo gate, and LCD slot display. |
+| [Robot Car](./Robot-car-README.md) | Embedded / Robotics | Wireless joystick-controlled car using NRF24L01 and an L298N motor driver. |
+| [Cats vs Dogs Classification](./Cats-Dogs-README.md) | Machine Learning | ANN vs. CNN comparison for binary image classification. |
+| [Iris Flower Classification](./Iris-README.md) | Machine Learning | Decision Tree, KNN, and SVM comparison on the classic Iris dataset. |
+ 
 ## Tech Stack
+ 
+Odoo 18 · Python · XML/QWeb · OWL (JS) · PostgreSQL · Flutter · Dart · SQLite · Streamlit · Arduino C++ · TensorFlow/Keras · scikit-learn
 
-Odoo 18 · Python · XML/QWeb · OWL (JS) · PostgreSQL · Flutter · Dart · Streamlit
 
 ## Contact
 
