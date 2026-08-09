@@ -31,7 +31,7 @@ Offline-first mobile app for field inspectors, built on top of the Lifting modul
 | [Smart Car Parking System](https://github.com/raniahammad78/Smart-car-parking-system) | Embedded / IoT | Arduino-based automated parking system with IR sensors, servo gate, and LCD slot display. |
 | [Robot Car](https://github.com/raniahammad78/Robot-car)| Embedded / Robotics | Wireless joystick-controlled car using NRF24L01 and an L298N motor driver. |
 | [Cats vs Dogs Classification](https://github.com/raniahammad78/Cats-Dogs) | Machine Learning | ANN vs. CNN comparison for binary image classification. |
-| [Iris Flower Classification](https://github.com/raniahammad78/Iris-Flower-Classification)) | Machine Learning | Decision Tree, KNN, and SVM comparison on the classic Iris dataset. |
+| [Iris Flower Classification](https://github.com/raniahammad78/Iris-Flower-Classification) | Machine Learning | Decision Tree, KNN, and SVM comparison on the classic Iris dataset. |
  
 ## Tech Stack
  
