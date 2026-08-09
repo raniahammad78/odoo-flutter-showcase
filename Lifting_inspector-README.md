@@ -50,7 +50,7 @@ no session-expiry edge cases to handle after the app was backgrounded for
 hours. Credentials are cached in the OS keychain via `flutter_secure_storage`,
 not shared_preferences.
 
-**Why checklist lines are never created client-side:** in your OCA-Lifting
+**Why checklist lines are never created client-side:** in your Lifting
 module, `inspection.inspection.line` records are generated server-side when
 an inspection's `machine_id` is set. The app only ever *reads* existing line
 ids and *writes* results to them — this avoids the classic offline-sync
