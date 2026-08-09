@@ -13,6 +13,8 @@ All source code below is kept in **private repositories**. This page documents w
 | [Lifting](./Lifting-README.md) | Services | Full lifting-equipment inspection & certification suite with customer portal. |
 | [Company Visit Tracker](./company_visit_tracker-README.md) | Services / Project | Automated client visit scheduling with a Documents-app-style folder browser. |
 | [Expenses](./expenses-README.md) | Accounting | Lightweight per-user, multi-currency expense tracker with dashboard. |
+| [DRS Extrusion Production Management](./drs-extrusion-production-management-README.md) | Manufacturing | Shift-based extrusion production tracking with temperature monitoring and bilingual Excel export. |
+ 
 
 ## Mobile App
 
