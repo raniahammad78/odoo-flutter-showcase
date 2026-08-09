@@ -31,6 +31,7 @@ Built for the industrial/oil & gas sector to digitize pipeline inspection workfl
 
 <H2>Add support</H2>
 <img width="1805" height="347" alt="image" src="https://github.com/user-attachments/assets/570e9ec2-0b22-4e3c-b4e8-f5fe9bd29b72" />
+
 ## Use Case Example
 
 A pipeline maintenance company uses this module to schedule and record inspections across multiple pipeline segments, generate compliance-ready PDF reports per inspection, and give supervisors a dashboard to spot overdue or failed inspections quickly.
