@@ -27,6 +27,7 @@ Built for businesses that sell products or licenses with a recurring purchase or
 <img width="1805" height="547" alt="image" src="https://github.com/user-attachments/assets/d27a9534-c547-4476-84ca-59eaaf67bb12" />
 <H2>Make a reminder</H2>
 <img width="1805" height="741" alt="image" src="https://github.com/user-attachments/assets/10f5299a-6e9f-480e-898c-4a00c5bb46cb" />
+
 ## Use Case Example
 
 A company selling annual software licenses uses this module to make sure no license renewal is missed — sales reps get an automatic email 30 days before each client's license expires, giving them time to reach out before the client churns.
