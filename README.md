@@ -21,7 +21,7 @@ Lifting Inspector — Flutter/Dart companion app
 
 Offline-first mobile app for field inspectors, built on top of the Lifting module.
 
-📄 Read more(./lifting_inspector-README.md)
+📄 [Lifting_Inspector](./Lifting_inspector-README.md)
 
 ## Tech Stack
 
