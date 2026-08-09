@@ -107,22 +107,6 @@ hand-written.
 6. On first launch, enter your Odoo server URL and database name, then log in
    with an inspector's Odoo account.
 
-## Known limitations / next steps (MVP scope)
-
-- Certificate PDF viewing (the "view/download the final certificate" part of
-  the full flow) isn't wired up yet — once an inspection is approved, the
-  simplest path is fetching its certificate `ir.attachment` via
-  `execute_kw` and opening it with a package like `open_filex` or
-  rendering it with `syncfusion_flutter_pdfviewer`. Happy to build this next.
-- No push notifications for newly assigned inspections — the list only
-  refreshes on pull-to-refresh or app open. Could add via Odoo's `bus` module
-  or a simple polling timer.
-- Conflict handling is last-write-wins per record; if a manager edits an
-  inspection in the Odoo backend while the inspector has unsynced local
-  changes to the same fields, the inspector's sync will overwrite the
-  backend's. Fine for the current single-inspector-per-inspection model, but
-  worth revisiting if that assumption changes.
-- No automated tests yet.
 
 ## Tech Stack
 
