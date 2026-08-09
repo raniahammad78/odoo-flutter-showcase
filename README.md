@@ -17,7 +17,11 @@ All source code below is kept in **private repositories**. This page documents w
 
 ## Mobile App
 
-A companion **Flutter/Dart mobile app** built for Lifting module — details available on request.
+Lifting Inspector — Flutter/Dart companion app
+
+Offline-first mobile app for field inspectors, built on top of the Lifting module.
+
+📄 Read more(./lifting_inspector-README.md)
 
 ## Tech Stack
 
