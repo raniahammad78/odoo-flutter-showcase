@@ -1,6 +1,6 @@
 # Lifting Inspector — Mobile App
 
-Offline-first Flutter/Dart companion app to the **Lifting (OCA-Lifting)** Odoo 18
+Offline-first Flutter/Dart companion app to the **Lifting** Odoo 18
 module. Built for field inspectors to carry out lifting-equipment inspections
 on-site — often with no signal — and have everything sync back to Odoo
 automatically once they're back online.
