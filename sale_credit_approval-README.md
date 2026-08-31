@@ -4,6 +4,8 @@
 
 **Status:** 🔒 Private repository — source available on request for review, freelance, or contract work.
 
+> **Note:** This is an extension module, not a standalone app. It inherits and overrides Odoo's core `sale.order` and `res.partner` models via `_inherit`, adding credit-control logic directly onto the standard Sales workflow rather than replacing it.
+
 ## Business Problem & Solution
 
 Standard ERP credit checks are usually static — they look at overdue invoices and stop there, ignoring orders that are already confirmed but not yet invoiced, and they rarely enforce discipline on unauthorized line-item discounts. This module closes both gaps:
