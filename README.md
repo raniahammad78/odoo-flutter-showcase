@@ -1,6 +1,6 @@
 # Portfolio
 
-Hi, I'm Rania — I build custom Odoo ERP modules and companion mobile apps (Flutter/Dart) for businesses that need workflows Odoo doesn't cover out of the box.
+Hi, I'm Rania — I build custom Odoo ERP modules and companion mobile apps (Flutter/Dart) for businesses that need workflows Odoo doesn't cover out of the box. Also editing on existing odoo modules to meet the businesses requirements.
 
 All source code below is kept in **private repositories**. This page documents what each module does. Reach out if you'd like a live demo, a code walkthrough, or want something similar built for your business.
 
